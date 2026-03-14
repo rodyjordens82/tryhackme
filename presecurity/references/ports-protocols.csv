@@ -1,0 +1,14 @@
+# Common Ports and Protocols
+
+| Port | Protocol | Description |
+|------|----------|-------------|
+| 21 | FTP | File Transfer Protocol |
+| 22 | SSH | Secure Shell |
+| 25 | SMTP | Simple Mail Transfer Protocol |
+| 53 | DNS | Domain Name System |
+| 80 | HTTP | HyperText Transfer Protocol |
+| 110 | POP3 | Post Office Protocol |
+| 143 | IMAP | Internet Message Access Protocol |
+| 443 | HTTPS | HTTP Secure |
+| 3389 | RDP | Remote Desktop Protocol |
+| 8080 | HTTP-alt | Alternative HTTP port |

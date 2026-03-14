@@ -1,0 +1,21 @@
+# IP Address Ranges
+
+## Private IP Ranges
+
+| Range | CIDR | Class | Description |
+|-------|------|-------|-------------|
+| 10.0.0.0 | 10.0.0.0/8 | A | Private network |
+| 172.16.0.0 | 172.16.0.0/12 | B | Private network |
+| 192.168.0.0 | 192.168.0.0/16 | C | Private network |
+| 169.254.0.0 | 169.254.0.0/16 | Link-local | APIPA (Automatic Private IP Addressing) |
+| 127.0.0.0 | 127.0.0.0/8 | Loopback | Localhost |
+
+## Special IP Ranges
+
+| Range | CIDR | Description |
+|-------|------|-------------|
+| 0.0.0.0 | 0.0.0.0/8 | This network | Unspecified address |
+| 198.18.0.0 | 198.18.0.0/15 | Benchmarking | Network Interconnect Device Benchmark Testing |
+| 224.0.0.0 | 224.0.0.0/4 | Multicast | Multicast addresses |
+| 240.0.0.0 | 240.0.0.0/4 | Reserved | Future use |
+| 255.255.255.255 | 255.255.255.255/32 | Limited broadcast | Broadcast to all hosts |

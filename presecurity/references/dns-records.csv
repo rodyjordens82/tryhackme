@@ -1,0 +1,14 @@
+# DNS Record Types
+
+| Type | Description | Example |
+|------|-------------|---------|
+| A | Maps domain to IPv4 address | example.com → 192.168.1.1 |
+| AAAA | Maps domain to IPv6 address | example.com → 2001:0db8::1 |
+| CNAME | Alias for another domain | www.example.com → example.com |
+| MX | Mail exchange server | example.com → mail.example.com |
+| NS | Name server | example.com → ns1.example.com |
+| PTR | Reverse DNS (IP to domain) | 192.168.1.1 → example.com |
+| SOA | Start of Authority | example.com → ns1.example.com admin.example.com |
+| TXT | Text records | example.com → "v=spf1 include:_spf.example.com ~all" |
+| SRV | Service location | _sip._tcp.example.com → sipserver.example.com:5060 |
+| CAA | Certification Authority Authorization | example.com → letsencrypt.org |
