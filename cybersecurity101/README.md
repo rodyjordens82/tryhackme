@@ -37,7 +37,7 @@ cybersecurity101/
 
 2. Navigate to the repository:
    ```bash
-   cd tyhackme/cybersecurity101
+   cd tryhackme/cybersecurity101
    ```
 
 3. Open the cheatsheet:
