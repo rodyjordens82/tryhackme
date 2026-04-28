@@ -32,7 +32,7 @@ cybersecurity101/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cybersecurity101.git
+   git clone https://github.com/rodyjordens82/cybersecurity101.git
    ```
 
 2. Navigate to the repository:
