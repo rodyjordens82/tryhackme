@@ -32,12 +32,12 @@ cybersecurity101/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rodyjordens82/cybersecurity101.git
+   git clone https://github.com/rodyjordens82/tryhackme.git
    ```
 
 2. Navigate to the repository:
    ```bash
-   cd cybersecurity101
+   cd tyhackme/cybersecurity101
    ```
 
 3. Open the cheatsheet:
